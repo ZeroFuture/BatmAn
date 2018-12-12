@@ -1,5 +1,3 @@
-Console HOW_TO:
-
 1. How to Compile:
 copy the jar file and your animation input files to a common folder. 
 Now open a command-prompt/terminal and navigate to that folder. 
