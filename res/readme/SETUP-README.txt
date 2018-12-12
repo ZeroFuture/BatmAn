@@ -3,9 +3,13 @@ Console HOW_TO:
 1. How to Compile:
 copy the jar file and your animation input files to a common folder. 
 Now open a command-prompt/terminal and navigate to that folder. 
-Now type java -jar BatmAn.jar and press ENTER. The program should run.
+Now type 'java -jar BatmAn.jar' and press ENTER. The program should run.
 
 2. How to Use:
+
+CONSOLE HOW_TO:
+Either directly run the jar file or type 'java -jar BatmAn.jar -view console' will enter console interface.
+
 Start the program and the following welcome page appears:
 
 Welcome to the BatmAn.
@@ -38,7 +42,9 @@ Select desired option number or option name and follow the instructions.
 Enter Quit if you want to exit.
 
 GUI HOW_TO:
-Follow the instructions.
+Type 'java -jar BatmAn.jar -view gui' will enter gui interface.
+
+and then simply follow the instructions.
 
 External Libraries: 
 javax.swing.
