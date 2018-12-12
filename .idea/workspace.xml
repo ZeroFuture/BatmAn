@@ -1,0 +1,2647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BatmAn:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42d0d37d-9690-4156-b3e2-8ba3ebfa08f8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BatmAn$TraderController.ic" NAME="TraderController Coverage Results" MODIFIED="1543390681877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>trader.controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="203" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1992322368">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="9" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/trader" value="5" />
+          <entry key="csv" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1108" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1108" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="UML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="315" />
+          <entry key="java" value="65773" />
+          <entry key="txt" value="1339" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="65773" />
+          <entry key="PLAIN_TEXT" value="1654" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="876650113">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/util/account/RetrievableStrategyAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/trader/BatmAnRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/view/ITraderView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/util/portfolio/StockCommissionPortfolio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2717">
+              <caret line="154" column="47" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/view/GuiView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/controller/ITraderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/controller/TraderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7201">
+              <caret line="410" column="82" selection-start-line="410" selection-start-column="45" selection-end-line="410" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/controller/commands/CreatePortfolio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trader/util/portfolio/StockPortfolio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1957">
+              <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>viewPortfolioNameTags</find>
+      <find>parse</find>
+      <find>1</find>
+      <find>Execute</find>
+      <find>assign</find>
+      <find>url</find>
+      <find>ENTER</find>
+      <find>VIEW</find>
+      <find>System</find>
+      <find>apply</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/RetrieveAllPortfolio.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/Interactivity.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/TraderController.java" />
+        <option value="$PROJECT_DIR$/src/trader/ErrorMsg.java" />
+        <option value="$PROJECT_DIR$/src/trader/model/MockModel.java" />
+        <option value="$PROJECT_DIR$/res/readme/DESIGN-README.txt" />
+        <option value="$PROJECT_DIR$/res/readme/SETUP-README.txt" />
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/AddDACInvestmentStrategy.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/AddStock.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/BuyStockWithCommission.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/GetPortfolioCostBasis.java" />
+        <option value="$PROJECT_DIR$/src/trader/model/AbstractStockTraderModel.java" />
+        <option value="$PROJECT_DIR$/src/trader/model/IStrategyTraderModel.java" />
+        <option value="$PROJECT_DIR$/src/trader/model/StrategyStockTraderModel.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/ITraderView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/TraderViewImplement.java" />
+        <option value="$PROJECT_DIR$/test/StrategyStockTraderModelTest.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/GuiView.java" />
+        <option value="$PROJECT_DIR$/src/trader/util/account/StrategyStockTraderAccount.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/WeightedStrategyView.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/commands/AddWeightedInvestmentStrategy.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/AddStockView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/AskNumberOfStockViewForDAC.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/AskNumberOfStockViewForWeighted.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/BuyStockNoCommissionView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/BuyStockWithCommissionView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/CreatePortfolioView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/EvaluateAccountView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/EvaluatePortfolioView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/Fail.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/Form.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/GetPortfolioCostBasisView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/RetrievePortfolioView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/RetrieveStrategyView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/SavePortfolioView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/SaveStrategyView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/Success.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/ViewAccount.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/ViewPortfolioView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/DollarAveragingCostStrategyView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/EnterWeight.java" />
+        <option value="$PROJECT_DIR$/src/trader/util/StockGenerator.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/subframe/ApplyStrategyView.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/TraderJFrameGuiView.java" />
+        <option value="$PROJECT_DIR$/src/trader/controller/GuiController.java" />
+        <option value="$PROJECT_DIR$/src/trader/view/FieldName.java" />
+        <option value="$PROJECT_DIR$/src/trader/BatmAnRunner.java" />
+        <option value="$PROJECT_DIR$/src/trader/util/strategy/DACStockStrategy.java" />
+        <option value="$PROJECT_DIR$/src/trader/model/util/USDPrice.java" />
+        <option value="$PROJECT_DIR$/src/trader/util/USDPrice.java" />
+        <option value="$PROJECT_DIR$/src/trader/util/portfolio/StockPortfolio.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="954" />
+    <option name="width" value="887" />
+    <option name="height" value="799" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BatmAn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BatmAn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BatmAn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BatmAn" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BatmAn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BatmAn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BatmAn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BatmAn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BatmAn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BatmAn" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Studyspace/CS5010/BatmAn/src/trader/util/strategy/DollarAveragingCostStrategy.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543885270643" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="trader.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="trader" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Studyspace\CS5010\BatmAn\src\trader\view\subframe" />
+      <recent name="C:\Studyspace\CS5010\BatmAn\src\trader\view" />
+      <recent name="C:\Studyspace\CS5010\BatmAn\src\trader\controller" />
+      <recent name="C:\Studyspace\CS5010\BatmAn\src\trader" />
+      <recent name="C:\Studyspace\CS5010\BatmAn\res\readme" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BatmAnRunner">
+    <configuration name="BatmAnRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trader.BatmAnRunner" />
+      <module name="BatmAn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyStockTraderModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BatmAn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyStockTraderModelTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyStockTraderModelTest.testAddAndApplyWeightedInvestmentStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BatmAn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyStockTraderModelTest" />
+      <option name="METHOD_NAME" value="testAddAndApplyWeightedInvestmentStrategy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyStockTraderModelTest.testBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BatmAn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyStockTraderModelTest" />
+      <option name="METHOD_NAME" value="testBasic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyStockTraderModelTest.testRetrievePortfolio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BatmAn" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyStockTraderModelTest" />
+      <option name="METHOD_NAME" value="testRetrievePortfolio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StrategyStockTraderModelTest.testRetrievePortfolio" />
+      <item itemvalue="JUnit.StrategyStockTraderModelTest" />
+      <item itemvalue="JUnit.StrategyStockTraderModelTest.testBasic" />
+      <item itemvalue="JUnit.StrategyStockTraderModelTest.testAddAndApplyWeightedInvestmentStrategy" />
+      <item itemvalue="Application.BatmAnRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BatmAnRunner" />
+        <item itemvalue="JUnit.StrategyStockTraderModelTest" />
+        <item itemvalue="JUnit.StrategyStockTraderModelTest.testAddAndApplyWeightedInvestmentStrategy" />
+        <item itemvalue="JUnit.StrategyStockTraderModelTest.testBasic" />
+        <item itemvalue="JUnit.StrategyStockTraderModelTest.testRetrievePortfolio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d0d37d-9690-4156-b3e2-8ba3ebfa08f8" name="Default Changelist" comment="" />
+      <created>1542065904295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542065904295</updated>
+      <workItem from="1542065906967" duration="1681000" />
+      <workItem from="1542074372221" duration="11363000" />
+      <workItem from="1542235288104" duration="33000" />
+      <workItem from="1542239406657" duration="42882000" />
+      <workItem from="1542314372743" duration="8236000" />
+      <workItem from="1542325992410" duration="4146000" />
+      <workItem from="1542750432191" duration="21000" />
+      <workItem from="1543194365412" duration="1097000" />
+      <workItem from="1543258961865" duration="123000" />
+      <workItem from="1543295105575" duration="10880000" />
+      <workItem from="1543347355502" duration="36260000" />
+      <workItem from="1543436208772" duration="20724000" />
+      <workItem from="1543469241320" duration="4023000" />
+      <workItem from="1543473428685" duration="1078000" />
+      <workItem from="1543519730575" duration="5584000" />
+      <workItem from="1543529436924" duration="214000" />
+      <workItem from="1543619403154" duration="3000" />
+      <workItem from="1543700950601" duration="17000" />
+      <workItem from="1543708002748" duration="652000" />
+      <workItem from="1543709465668" duration="46000" />
+      <workItem from="1543868458119" duration="2081000" />
+      <workItem from="1543885702414" duration="8965000" />
+      <workItem from="1543909817715" duration="5739000" />
+      <workItem from="1543950621771" duration="50243000" />
+      <workItem from="1544034027332" duration="28820000" />
+      <workItem from="1544141080428" duration="2384000" />
+      <workItem from="1544221438081" duration="2271000" />
+      <workItem from="1544227650981" duration="393000" />
+      <workItem from="1544647571620" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StrategyStockTraderModelTest_testBasic - 2018.12.05 at 11h 06m 14s.xml">
+      <configuration name="StrategyStockTraderModelTest.testBasic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 06m 28s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 07m 46s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 09m 49s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 12m 28s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest_testAddAndApplyWeightedInvestmentStrategy - 2018.12.05 at 11h 14m 30s.xml">
+      <configuration name="StrategyStockTraderModelTest.testAddAndApplyWeightedInvestmentStrategy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 16m 59s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 32m 40s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 33m 35s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyStockTraderModelTest - 2018.12.05 at 11h 34m 58s.xml">
+      <configuration name="StrategyStockTraderModelTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250032000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3253796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1778742" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4989429" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.17377399" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5010571" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48698482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/AskNumberOfStockViewForWeighted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/BuyStockNoCommissionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/BuyStockWithCommissionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/EvaluatePortfolioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/Fail.java" />
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/RetrievePortfolioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/RetrieveStrategyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/SavePortfolioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/SaveStrategyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/ViewAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/ViewPortfolioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/CreatePortfolioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/commands/AddDACInvestmentStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/AddStockView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/WeightedStrategyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="76" selection-start-line="76" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/trader">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>trader</OriginalElement>
+          <nodes>
+            <node x="6891.722310418683" y="7539.0">trader.controller.commands.SaveAllPortfolio</node>
+            <node x="6360.230114677666" y="7516.5">trader.controller.commands.AddStock</node>
+            <node x="7226.722310418683" y="7461.5">trader.controller.commands.AddDACInvestmentStrategy</node>
+            <node x="7896.722310418684" y="7539.0">trader.controller.commands.ViewStrategy</node>
+            <node x="7561.722310418683" y="7527.5">trader.controller.commands.EvaluateAccount</node>
+            <node x="10248.284810418685" y="7527.5">trader.controller.commands.RetrievePortfolio</node>
+            <node x="9913.284810418685" y="7539.0">trader.controller.commands.RetrieveAllPortfolio</node>
+            <node x="6242.787847740283" y="3149.0">trader.util.strategy</node>
+            <node x="5669.801805854137" y="2548.0">trader.util.StockGenerator</node>
+            <node x="5690.230114677666" y="7527.5">trader.controller.commands.GetPortfolioCostBasis</node>
+            <node x="7306.733423913045" y="8001.0">trader.controller.TraderController</node>
+            <node x="1882.916666666667" y="7539.0">trader.controller.commands.GetAccountCostBasis</node>
+            <node x="6755.50763650564" y="6057.5">trader.controller.commands.CommandInterface</node>
+            <node x="4697.3851391874705" y="3138.0">trader.util.portfolio.RetrievableCommissionPortfolio</node>
+            <node x="1042.916666666667" y="6057.5">trader.controller.ITraderController</node>
+            <node x="5219.104166666668" y="4151.0">trader.util.account.StrategyStockTraderAccount</node>
+            <node x="8231.722310418685" y="7539.0">trader.controller.commands.RetrieveAllStrategy</node>
+            <node x="2217.916666666667" y="7516.5">trader.controller.commands.EvaluatePortfolio</node>
+            <node x="3490.88513918747" y="3826.0">trader.util.account.RetrievableStrategyAccount</node>
+            <node x="365.375" y="8011.5">trader.controller.GuiController</node>
+            <node x="3826.1124119147426" y="3397.0">trader.util.account.StockTraderAccount</node>
+            <node x="6071.687500000001" y="1638.0">trader.util.TradeTimeStamp</node>
+            <node x="6025.230114677666" y="7483.5">trader.controller.commands.BuyStockWithCommission</node>
+            <node x="9438.534810418685" y="5606.0">trader.controller.Interactivity</node>
+            <node x="2552.916666666667" y="7483.5">trader.controller.commands.AddWeightedInvestmentStrategy</node>
+            <node x="10.5" y="6046.0">trader.view.GuiView</node>
+            <node x="824.5" y="7318.0">trader.view.TraderJFrameGuiView</node>
+            <node x="10916.609209736118" y="8298.5">trader.view.TraderViewImplement</node>
+            <node x="3222.9166666666674" y="7527.5">trader.controller.commands.CreatePortfolio</node>
+            <node x="953.75" y="8739.0">trader.BatmAnRunner</node>
+            <node x="4439.56013918747" y="2231.0">trader.util.portfolio.Portfolio</node>
+            <node x="9578.284810418685" y="7527.5">trader.controller.commands.SaveStrategy</node>
+            <node x="6359.466156563813" y="4829.0">trader.model</node>
+            <node x="4306.70457835056" y="3847.5">trader.util.account.StockTraderAccountWithCommission</node>
+            <node x="336.5" y="7550.0">trader.view.subframe</node>
+            <node x="1212.916666666667" y="7494.5">trader.controller.commands.BuyStock</node>
+            <node x="5078.745833333334" y="3430.0">trader.util.portfolio.StockCommissionPortfolio</node>
+            <node x="5405.162916965248" y="2019.0">trader.util.equity</node>
+            <node x="1547.916666666667" y="7527.5">trader.controller.commands.ViewPortfolio</node>
+            <node x="10919.284810418685" y="7528.0">trader.view.ITraderView</node>
+            <node x="3797.88513918747" y="2198.0">trader.util.account.Account</node>
+            <node x="3904.63513918747" y="2669.0">trader.util.account.AccountWithCommission</node>
+            <node x="4937.3851391874705" y="2691.0">trader.util.portfolio.CommissionPortfolio</node>
+            <node x="5731.549875585792" y="550.0">trader.util.TimeStamp</node>
+            <node x="6306.827653363569" y="0.0">trader.ErrorMsg</node>
+            <node x="3478.88513918747" y="3497.0">trader.util.account.StrategyAccount</node>
+            <node x="4771.460986696903" y="539.0">trader.util.Price</node>
+            <node x="678.3503477402828" y="5078.0">trader.view.FieldName</node>
+            <node x="8566.722310418685" y="7539.0">trader.controller.commands.SaveAllStrategy</node>
+            <node x="5700.687500000001" y="2297.5">trader.util.EquityGenerator</node>
+            <node x="4405.3851391874705" y="3060.0">trader.util.portfolio.StockPortfolio</node>
+            <node x="8901.722310418685" y="7539.0">trader.controller.commands.ViewAccount</node>
+            <node x="486.5" y="7527.5">trader.controller.ButtonListener</node>
+            <node x="5238.3851391874705" y="1616.0">trader.util.USDPrice</node>
+            <node x="2887.9166666666674" y="7516.5">trader.controller.commands.ApplyStrategy</node>
+            <node x="9236.722310418685" y="7527.5">trader.controller.commands.SavePortfolio</node>
+            <node x="10583.284810418685" y="7527.5">trader.controller.commands.RetrieveStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="trader.controller.commands.SavePortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-37.0" />
+              <point x="9276.097310418685" y="7188.0" />
+              <point x="7008.877201723031" y="7188.0" />
+              <point x="95.86956521739103" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllStrategy" target="trader.controller.Interactivity">
+              <point x="118.125" y="-25.5" />
+              <point x="8842.347310418685" y="7278.0" />
+              <point x="9497.284810418685" y="7278.0" />
+              <point x="-58.75" y="477.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.AddStock">
+              <point x="-42.4666666666667" y="-334.0" />
+              <point x="7446.266757246378" y="7871.0" />
+              <point x="6517.730114677666" y="7871.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.portfolio.CommissionPortfolio">
+              <point x="-107.94117647058829" y="-279.0" />
+              <point x="5294.662990196079" y="4101.0" />
+              <point x="3815.6124119147426" y="4101.0" />
+              <point x="3815.6124119147426" y="3327.0" />
+              <point x="4331.1351391874705" y="3327.0" />
+              <point x="4331.1351391874705" y="3010.0" />
+              <point x="4972.3851391874705" y="3010.0" />
+              <point x="-105.0" y="48.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.CommandInterface">
+              <point x="-18.199999999999818" y="-334.0" />
+              <point x="7470.533423913044" y="7851.0" />
+              <point x="6832.694788590709" y="7851.0" />
+              <point x="6832.694788590709" y="7298.0" />
+              <point x="6899.311984331727" y="7298.0" />
+              <point x="-13.695652173913004" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrievePortfolio" target="trader.ErrorMsg">
+              <point x="118.125" y="-37.0" />
+              <point x="10523.909810418685" y="7298.0" />
+              <point x="10612.659810418685" y="7298.0" />
+              <point x="10612.659810418685" y="1236.0" />
+              <point x="6607.004123951805" y="1236.0" />
+              <point x="138.17647058823513" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.AddWeightedInvestmentStrategy" target="trader.model">
+              <point x="0.0" y="-81.0" />
+              <point x="2710.416666666667" y="5018.0" />
+              <point x="6399.016156563812" y="5018.0" />
+              <point x="-16.949999999999818" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveStrategy" target="trader.controller.Interactivity">
+              <point x="-39.375" y="-37.0" />
+              <point x="10701.409810418685" y="7108.0" />
+              <point x="9661.784810418685" y="7108.0" />
+              <point x="105.75" y="477.0" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.view.GuiView">
+              <point x="-108.85000000000036" y="-323.5" />
+              <point x="412.02499999999964" y="7971.0" />
+              <point x="104.0" y="7971.0" />
+              <point x="104.0" y="7298.0" />
+              <point x="148.0" y="7298.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.RetrieveAllStrategy">
+              <point x="42.4666666666667" y="-334.0" />
+              <point x="7531.200090579711" y="7871.0" />
+              <point x="8389.222310418685" y="7871.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllPortfolio" target="trader.model">
+              <point x="-39.375" y="-25.5" />
+              <point x="7009.847310418683" y="7288.0" />
+              <point x="7088.347310418683" y="7288.0" />
+              <point x="7088.347310418683" y="5018.0" />
+              <point x="6429.149489897145" y="5018.0" />
+              <point x="13.183333333333394" y="14.5" />
+            </edge>
+            <edge source="trader.util.equity" target="trader.util.TimeStamp">
+              <point x="0.0" y="-14.5" />
+              <point x="5461.8851391874705" y="1406.0" />
+              <point x="5828.749875585791" y="1406.0" />
+              <point x="-10.800000000000182" y="48.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllStrategy" target="trader.controller.Interactivity">
+              <point x="118.125" y="-25.5" />
+              <point x="8507.347310418685" y="7268.0" />
+              <point x="9473.784810418685" y="7268.0" />
+              <point x="-82.25" y="477.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewPortfolio" target="trader.model">
+              <point x="0.0" y="-37.0" />
+              <point x="1705.416666666667" y="4988.0" />
+              <point x="6387.716156563813" y="4988.0" />
+              <point x="-28.25" y="14.5" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.controller.ButtonListener">
+              <point x="46.649999999999636" y="-323.5" />
+              <point x="567.5249999999996" y="7951.0" />
+              <point x="724.25" y="7951.0" />
+              <point x="79.25" y="37.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllPortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-25.5" />
+              <point x="6931.097310418683" y="7298.0" />
+              <point x="6913.00763650564" y="7298.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.portfolio.Portfolio" target="trader.util.equity">
+              <point x="70.33333333333303" y="-92.0" />
+              <point x="4615.393472520804" y="2118.0" />
+              <point x="5426.940694743025" y="2118.0" />
+              <point x="-34.222222222222626" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.account.StockTraderAccount">
+              <point x="-159.090909090909" y="-81.0" />
+              <point x="4322.613669259652" y="3806.0" />
+              <point x="4031.9124119147427" y="3806.0" />
+              <point x="58.80000000000018" y="169.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.SaveAllStrategy">
+              <point x="54.59999999999991" y="-334.0" />
+              <point x="7543.3334239130445" y="7881.0" />
+              <point x="8724.222310418685" y="7881.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.portfolio.RetrievableCommissionPortfolio" target="trader.util.portfolio.CommissionPortfolio">
+              <point x="0.0" y="-25.5" />
+              <point x="4806.8851391874705" y="3020.0" />
+              <point x="5042.3851391874705" y="3020.0" />
+              <point x="-35.0" y="48.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.TimeStamp">
+              <point x="-95.19999999999982" y="-103.5" />
+              <point x="4446.18513918747" y="2990.0" />
+              <point x="4374.06013918747" y="2990.0" />
+              <point x="4374.06013918747" y="1386.0" />
+              <point x="5785.549875585792" y="1386.0" />
+              <point x="-54.0" y="48.0" />
+            </edge>
+            <edge source="trader.util.account.Account" target="trader.util.Price">
+              <point x="-98.0" y="-125.0" />
+              <point x="3846.88513918747" y="2178.0" />
+              <point x="3933.88513918747" y="2178.0" />
+              <point x="3933.88513918747" y="1316.0" />
+              <point x="4794.085986696903" y="1316.0" />
+              <point x="-67.875" y="59.0" />
+            </edge>
+            <edge source="trader.controller.commands.AddWeightedInvestmentStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-81.0" />
+              <point x="2815.416666666667" y="7238.0" />
+              <point x="6817.138071288249" y="7238.0" />
+              <point x="-95.86956521739103" y="25.5" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.util.EquityGenerator">
+              <point x="49.11111111111131" y="-191.0" />
+              <point x="5939.912916965248" y="2468.0" />
+              <point x="5875.687500000001" y="2468.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.CreatePortfolio" target="trader.ErrorMsg">
+              <point x="-105.0" y="-37.0" />
+              <point x="3275.4166666666674" y="7138.0" />
+              <point x="2944.784029108136" y="7138.0" />
+              <point x="2944.784029108136" y="1476.0" />
+              <point x="6368.768829834158" y="1476.0" />
+              <point x="-100.05882352941171" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluatePortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-48.0" />
+              <point x="2480.416666666667" y="7228.0" />
+              <point x="6803.442419114336" y="7228.0" />
+              <point x="-109.56521739130403" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.TradeTimeStamp">
+              <point x="26.727272727272975" y="-169.5" />
+              <point x="3999.8396846420155" y="3307.0" />
+              <point x="4287.1351391874705" y="3307.0" />
+              <point x="4287.1351391874705" y="1959.0" />
+              <point x="6079.995192307693" y="1959.0" />
+              <point x="-99.69230769230762" y="59.5" />
+            </edge>
+            <edge source="trader.controller.commands.GetPortfolioCostBasis" target="trader.model">
+              <point x="0.0" y="-37.0" />
+              <point x="5847.730114677666" y="5048.0" />
+              <point x="6410.316156563813" y="5048.0" />
+              <point x="-5.649999999999636" y="14.5" />
+            </edge>
+            <edge source="trader.util.equity" target="trader.util.TradeTimeStamp">
+              <point x="24.888888888888687" y="-14.5" />
+              <point x="5486.051805854137" y="1979.0" />
+              <point x="6113.225961538463" y="1979.0" />
+              <point x="-66.46153846153811" y="59.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.ErrorMsg">
+              <point x="-80.18181818181802" y="-169.5" />
+              <point x="3892.9305937329245" y="3297.0" />
+              <point x="3787.38513918747" y="3297.0" />
+              <point x="3787.38513918747" y="1849.0" />
+              <point x="4298.1351391874705" y="1849.0" />
+              <point x="4298.1351391874705" y="1506.0" />
+              <point x="6397.357065128275" y="1506.0" />
+              <point x="-71.47058823529369" y="598.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.BuyStock">
+              <point x="-151.66666666666652" y="-334.0" />
+              <point x="7337.066757246378" y="7961.0" />
+              <point x="1370.416666666667" y="7961.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.ErrorMsg">
+              <point x="196.44444444444434" y="-191.0" />
+              <point x="6087.246250298581" y="2528.0" />
+              <point x="6298.187500000001" y="2528.0" />
+              <point x="6298.187500000001" y="1576.0" />
+              <point x="6464.062947481216" y="1576.0" />
+              <point x="-4.764705882353155" y="598.0" />
+            </edge>
+            <edge source="trader.view.subframe" target="trader.view.FieldName">
+              <point x="32.25" y="-14.5" />
+              <point x="433.25" y="7298.0" />
+              <point x="726.1836810736168" y="7298.0" />
+              <point x="-95.66666666666606" y="1005.0" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.controller.GuiController">
+              <point x="-37.55555555555475" y="-25.5" />
+              <point x="1000.6944444444453" y="8699.0" />
+              <point x="443.125" y="8699.0" />
+              <point x="-77.75" y="323.5" />
+            </edge>
+            <edge source="trader.controller.commands.ApplyStrategy" target="trader.ErrorMsg">
+              <point x="-105.0" y="-48.0" />
+              <point x="2940.4166666666674" y="7148.0" />
+              <point x="2609.7840291081357" y="7148.0" />
+              <point x="2609.7840291081357" y="1466.0" />
+              <point x="6359.239418069452" y="1466.0" />
+              <point x="-109.58823529411802" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.ApplyStrategy" target="trader.model">
+              <point x="0.0" y="-48.0" />
+              <point x="3045.4166666666674" y="5028.0" />
+              <point x="6402.782823230478" y="5028.0" />
+              <point x="-13.183333333333394" y="14.5" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.model">
+              <point x="-77.75" y="-323.5" />
+              <point x="443.125" y="7961.0" />
+              <point x="296.0" y="7961.0" />
+              <point x="296.0" y="4948.0" />
+              <point x="6372.649489897145" y="4948.0" />
+              <point x="-43.316666666666606" y="14.5" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.util.TradeTimeStamp">
+              <point x="147.33333333333303" y="-191.0" />
+              <point x="6038.13513918747" y="2518.0" />
+              <point x="6219.966335768666" y="2518.0" />
+              <point x="6219.966335768666" y="1999.0" />
+              <point x="6163.072115384616" y="1999.0" />
+              <point x="-16.615384615384755" y="59.5" />
+            </edge>
+            <edge source="trader.controller.commands.CommandInterface" target="trader.model">
+              <point x="0.0" y="-25.5" />
+              <point x="6913.00763650564" y="5028.0" />
+              <point x="6425.382823230479" y="5028.0" />
+              <point x="9.41666666666697" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.GetAccountCostBasis" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-25.5" />
+              <point x="2145.416666666667" y="7218.0" />
+              <point x="6789.746766940423" y="7218.0" />
+              <point x="-123.26086956521704" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.TradeTimeStamp">
+              <point x="151.11764705882342" y="-279.0" />
+              <point x="5553.721813725491" y="4121.0" />
+              <point x="6420.051805854137" y="4121.0" />
+              <point x="6420.051805854137" y="1819.0" />
+              <point x="6246.149038461539" y="1819.0" />
+              <point x="66.46153846153811" y="59.5" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStockWithCommission" target="trader.ErrorMsg">
+              <point x="-105.0" y="-81.0" />
+              <point x="6077.730114677666" y="7118.0" />
+              <point x="3448.19763918747" y="7118.0" />
+              <point x="3448.19763918747" y="1496.0" />
+              <point x="6387.827653363569" y="1496.0" />
+              <point x="-81.0" y="598.0" />
+            </edge>
+            <edge source="trader.util.portfolio.CommissionPortfolio" target="trader.util.equity">
+              <point x="93.33333333333303" y="-48.0" />
+              <point x="5170.718472520803" y="2528.0" />
+              <point x="5193.801805854137" y="2528.0" />
+              <point x="5193.801805854137" y="2148.0" />
+              <point x="5445.607361409692" y="2148.0" />
+              <point x="-15.555555555555657" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.account.RetrievableStrategyAccount">
+              <point x="-172.70588235294144" y="-279.0" />
+              <point x="5229.8982843137255" y="4131.0" />
+              <point x="3655.13513918747" y="4131.0" />
+              <point x="54.75" y="102.5" />
+            </edge>
+            <edge source="trader.model" target="trader.util.strategy">
+              <point x="-3.53125" y="-14.5" />
+              <point x="6412.434906563813" y="4729.0" />
+              <point x="6447.198864677666" y="4729.0" />
+              <point x="6447.198864677666" y="3377.0" />
+              <point x="6343.621181073616" y="3377.0" />
+              <point x="40.33333333333303" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.ViewAccount" target="trader.controller.Interactivity">
+              <point x="118.125" y="-25.5" />
+              <point x="9177.347310418685" y="7288.0" />
+              <point x="9520.784810418685" y="7288.0" />
+              <point x="-35.25" y="477.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.ErrorMsg">
+              <point x="172.70588235294144" y="-279.0" />
+              <point x="5575.310049019608" y="4131.0" />
+              <point x="6431.051805854137" y="4131.0" />
+              <point x="6431.051805854137" y="1596.0" />
+              <point x="6483.121771010628" y="1596.0" />
+              <point x="14.294117647058556" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveStrategy" target="trader.model">
+              <point x="39.375" y="-37.0" />
+              <point x="9775.159810418685" y="7298.0" />
+              <point x="9778.942543069452" y="7298.0" />
+              <point x="9778.942543069452" y="4938.0" />
+              <point x="6459.282823230478" y="4938.0" />
+              <point x="43.316666666666606" y="14.5" />
+            </edge>
+            <edge source="trader.model" target="trader.util.equity">
+              <point x="24.71875" y="-14.5" />
+              <point x="6440.684906563813" y="4769.0" />
+              <point x="6477.699783795313" y="4769.0" />
+              <point x="6477.699783795313" y="2108.0" />
+              <point x="5514.051805854137" y="2108.0" />
+              <point x="52.88888888888869" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddStock" target="trader.ErrorMsg">
+              <point x="0.0" y="-48.0" />
+              <point x="6517.730114677666" y="7188.0" />
+              <point x="6655.50763650564" y="7188.0" />
+              <point x="6655.50763650564" y="1346.0" />
+              <point x="6502.180594540039" y="1346.0" />
+              <point x="33.35294117647027" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluatePortfolio" target="trader.ErrorMsg">
+              <point x="-105.0" y="-48.0" />
+              <point x="2270.416666666667" y="7168.0" />
+              <point x="1939.7840291081357" y="7168.0" />
+              <point x="1939.7840291081357" y="1446.0" />
+              <point x="6340.180594540039" y="1446.0" />
+              <point x="-128.64705882352973" y="598.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.SaveStrategy">
+              <point x="103.13333333333321" y="-334.0" />
+              <point x="7591.866757246378" y="7921.0" />
+              <point x="9735.784810418685" y="7921.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.account.StrategyStockTraderAccount">
+              <point x="-10.59375" y="-14.5" />
+              <point x="6405.372406563813" y="4749.0" />
+              <point x="5494.354166666668" y="4749.0" />
+              <point x="91.75" y="279.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.CreatePortfolio">
+              <point x="-78.86666666666679" y="-334.0" />
+              <point x="7409.866757246378" y="7901.0" />
+              <point x="3380.4166666666674" y="7901.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStock" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-70.0" />
+              <point x="1475.416666666667" y="7198.0" />
+              <point x="6762.355462592597" y="7198.0" />
+              <point x="-150.65217391304304" y="25.5" />
+            </edge>
+            <edge source="trader.util.TradeTimeStamp" target="trader.util.TimeStamp">
+              <point x="0.0" y="-59.5" />
+              <point x="6179.687500000001" y="1376.0" />
+              <point x="5915.149875585792" y="1376.0" />
+              <point x="75.60000000000036" y="48.0" />
+            </edge>
+            <edge source="trader.util.portfolio.CommissionPortfolio" target="trader.util.Price">
+              <point x="0.0" y="-48.0" />
+              <point x="5077.3851391874705" y="2528.0" />
+              <point x="5118.551805854137" y="2528.0" />
+              <point x="5118.551805854137" y="1346.0" />
+              <point x="4884.585986696903" y="1346.0" />
+              <point x="22.625" y="59.0" />
+            </edge>
+            <edge source="trader.controller.commands.SavePortfolio" target="trader.model">
+              <point x="-39.375" y="-37.0" />
+              <point x="9354.847310418685" y="7248.0" />
+              <point x="9388.722310418685" y="7248.0" />
+              <point x="9388.722310418685" y="4948.0" />
+              <point x="6455.516156563812" y="4948.0" />
+              <point x="39.55000000000018" y="14.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.model">
+              <point x="-30.33333333333303" y="-334.0" />
+              <point x="7458.400090579711" y="7861.0" />
+              <point x="6745.00763650564" y="7861.0" />
+              <point x="6745.00763650564" y="5038.0" />
+              <point x="6421.616156563812" y="5038.0" />
+              <point x="5.649999999999636" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-37.0" />
+              <point x="10622.659810418685" y="7118.0" />
+              <point x="7063.659810418683" y="7118.0" />
+              <point x="150.65217391304304" y="25.5" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.USDPrice">
+              <point x="0.0" y="-14.5" />
+              <point x="6303.287847740283" y="2990.0" />
+              <point x="6338.051805854137" y="2990.0" />
+              <point x="6338.051805854137" y="1879.0" />
+              <point x="5425.235139187471" y="1879.0" />
+              <point x="85.85000000000036" y="81.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.portfolio.Portfolio">
+              <point x="13.600000000000364" y="-103.5" />
+              <point x="4554.985139187471" y="2950.0" />
+              <point x="4492.31013918747" y="2950.0" />
+              <point x="-52.75" y="92.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyAccount" target="trader.util.strategy">
+              <point x="60.75" y="-69.5" />
+              <point x="3661.13513918747" y="3377.0" />
+              <point x="6289.8434032958385" y="3377.0" />
+              <point x="-13.444444444444343" y="14.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.RetrievePortfolio">
+              <point x="127.39999999999964" y="-334.0" />
+              <point x="7616.133423913045" y="7941.0" />
+              <point x="10405.784810418685" y="7941.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllStrategy" target="trader.model">
+              <point x="-39.375" y="-25.5" />
+              <point x="8349.847310418685" y="7248.0" />
+              <point x="8383.722310418685" y="7248.0" />
+              <point x="8383.722310418685" y="4978.0" />
+              <point x="6444.216156563813" y="4978.0" />
+              <point x="28.25" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddWeightedInvestmentStrategy" target="trader.ErrorMsg">
+              <point x="-105.0" y="-81.0" />
+              <point x="2605.416666666667" y="7158.0" />
+              <point x="2274.7840291081357" y="7158.0" />
+              <point x="2274.7840291081357" y="1456.0" />
+              <point x="6349.710006304746" y="1456.0" />
+              <point x="-119.11764705882342" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrievePortfolio" target="trader.model">
+              <point x="39.375" y="-37.0" />
+              <point x="10445.159810418685" y="7298.0" />
+              <point x="10448.942543069452" y="7298.0" />
+              <point x="10448.942543069452" y="4918.0" />
+              <point x="6466.816156563813" y="4918.0" />
+              <point x="50.850000000000364" y="14.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.ITraderController">
+              <point x="-175.9333333333334" y="-334.0" />
+              <point x="7312.800090579711" y="7981.0" />
+              <point x="1140.416666666667" y="7981.0" />
+              <point x="1140.416666666667" y="7298.0" />
+              <point x="1157.916666666667" y="7298.0" />
+              <point x="46.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.StockGenerator">
+              <point x="-33.0" y="-14.5" />
+              <point x="6270.287847740283" y="2990.0" />
+              <point x="5927.63513918747" y="2990.0" />
+              <point x="36.83333333333303" y="191.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.portfolio.StockCommissionPortfolio">
+              <point x="63.63636363636397" y="-81.0" />
+              <point x="4545.340941986924" y="3776.0" />
+              <point x="5218.745833333334" y="3776.0" />
+              <point x="0.0" y="136.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.RetrieveAllPortfolio">
+              <point x="115.26666666666642" y="-334.0" />
+              <point x="7604.0000905797115" y="7931.0" />
+              <point x="10070.784810418685" y="7931.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.view.TraderViewImplement" target="trader.view.ITraderView">
+              <point x="0.0" y="-36.5" />
+              <point x="10999.109209736118" y="7981.0" />
+              <point x="11016.784810418685" y="7981.0" />
+              <point x="19.5" y="36.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.GetAccountCostBasis">
+              <point x="-127.39999999999964" y="-334.0" />
+              <point x="7361.333423913045" y="7941.0" />
+              <point x="2040.416666666667" y="7941.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.portfolio.StockPortfolio">
+              <point x="31.818181818181984" y="-81.0" />
+              <point x="4513.522760168742" y="3766.0" />
+              <point x="4619.655877051859" y="3766.0" />
+              <point x="4619.655877051859" y="3367.0" />
+              <point x="4580.242282044614" y="3367.0" />
+              <point x="38.85714285714312" y="103.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.EvaluatePortfolio">
+              <point x="-115.26666666666642" y="-334.0" />
+              <point x="7373.466757246379" y="7931.0" />
+              <point x="2375.416666666667" y="7931.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllStrategy" target="trader.model">
+              <point x="-39.375" y="-25.5" />
+              <point x="8684.847310418685" y="7248.0" />
+              <point x="8718.722310418685" y="7248.0" />
+              <point x="8718.722310418685" y="4968.0" />
+              <point x="6447.982823230479" y="4968.0" />
+              <point x="32.016666666666424" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.ErrorMsg">
+              <point x="159.090909090909" y="-81.0" />
+              <point x="4640.79548744147" y="3806.0" />
+              <point x="5463.875038177369" y="3806.0" />
+              <point x="5463.875038177369" y="2528.0" />
+              <point x="5641.024028076359" y="2528.0" />
+              <point x="5641.024028076359" y="1556.0" />
+              <point x="6445.004123951805" y="1556.0" />
+              <point x="-23.823529411764866" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStock" target="trader.model">
+              <point x="0.0" y="-70.0" />
+              <point x="1370.416666666667" y="4978.0" />
+              <point x="6383.949489897146" y="4978.0" />
+              <point x="-32.016666666666424" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddStock" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-48.0" />
+              <point x="6622.730114677666" y="7288.0" />
+              <point x="6885.616332157814" y="7288.0" />
+              <point x="-27.391304347826008" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-37.0" />
+              <point x="9617.659810418685" y="7178.0" />
+              <point x="7022.572853896944" y="7178.0" />
+              <point x="109.56521739130403" y="25.5" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.view.TraderViewImplement">
+              <point x="56.33333333333394" y="-25.5" />
+              <point x="1094.583333333334" y="8709.0" />
+              <point x="10999.109209736118" y="8709.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.view.GuiView">
+              <point x="-56.33333333333394" y="-25.5" />
+              <point x="981.9166666666661" y="8709.0" />
+              <point x="82.0" y="8709.0" />
+              <point x="82.0" y="7298.0" />
+              <point x="38.0" y="7298.0" />
+              <point x="-110.0" y="37.0" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.ErrorMsg">
+              <point x="55.0" y="-14.5" />
+              <point x="6358.287847740283" y="3040.0" />
+              <point x="6395.551805854137" y="3040.0" />
+              <point x="6395.551805854137" y="1586.0" />
+              <point x="6473.592359245922" y="1586.0" />
+              <point x="4.764705882353155" y="598.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.TimeStamp">
+              <point x="-106.90909090909099" y="-169.5" />
+              <point x="3866.2033210056516" y="3307.0" />
+              <point x="3776.38513918747" y="3307.0" />
+              <point x="3776.38513918747" y="1829.0" />
+              <point x="4121.4684725208035" y="1829.0" />
+              <point x="4121.4684725208035" y="1366.0" />
+              <point x="5742.349875585792" y="1366.0" />
+              <point x="-97.19999999999982" y="48.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.SavePortfolio">
+              <point x="78.86666666666679" y="-334.0" />
+              <point x="7567.600090579712" y="7901.0" />
+              <point x="9394.222310418685" y="7901.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.ErrorMsg">
+              <point x="-68.0" y="-103.5" />
+              <point x="4473.3851391874705" y="2980.0" />
+              <point x="4385.06013918747" y="2980.0" />
+              <point x="4385.06013918747" y="1849.0" />
+              <point x="4821.527305623287" y="1849.0" />
+              <point x="4821.527305623287" y="1516.0" />
+              <point x="6406.886476892982" y="1516.0" />
+              <point x="-61.94117647058829" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllPortfolio" target="trader.controller.Interactivity">
+              <point x="-39.375" y="-25.5" />
+              <point x="10031.409810418685" y="7148.0" />
+              <point x="9614.784810418685" y="7148.0" />
+              <point x="58.75" y="477.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.portfolio.RetrievableCommissionPortfolio">
+              <point x="0.0" y="-279.0" />
+              <point x="5402.604166666668" y="4051.0" />
+              <point x="5482.579583631914" y="4051.0" />
+              <point x="5482.579583631914" y="3297.0" />
+              <point x="4861.6351391874705" y="3297.0" />
+              <point x="54.75" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllPortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-25.5" />
+              <point x="9952.659810418685" y="7158.0" />
+              <point x="7036.268506070857" y="7158.0" />
+              <point x="123.26086956521704" y="25.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.view.ITraderView">
+              <point x="175.9333333333334" y="-334.0" />
+              <point x="7664.6667572463775" y="7981.0" />
+              <point x="10977.784810418685" y="7981.0" />
+              <point x="-19.5" y="36.5" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluatePortfolio" target="trader.model">
+              <point x="0.0" y="-48.0" />
+              <point x="2375.416666666667" y="5008.0" />
+              <point x="6395.249489897145" y="5008.0" />
+              <point x="-20.716666666666242" y="14.5" />
+            </edge>
+            <edge source="trader.util.USDPrice" target="trader.util.Price">
+              <point x="-67.33333333333303" y="-81.5" />
+              <point x="5272.051805854137" y="1326.0" />
+              <point x="4914.75265336357" y="1326.0" />
+              <point x="52.79166666666697" y="59.0" />
+            </edge>
+            <edge source="trader.util.portfolio.Portfolio" target="trader.util.TimeStamp">
+              <point x="0.0" y="-92.0" />
+              <point x="4545.06013918747" y="2068.0" />
+              <point x="4407.06013918747" y="2068.0" />
+              <point x="4407.06013918747" y="1396.0" />
+              <point x="5807.149875585792" y="1396.0" />
+              <point x="-32.399999999999636" y="48.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllPortfolio" target="trader.ErrorMsg">
+              <point x="118.125" y="-25.5" />
+              <point x="10188.909810418685" y="7298.0" />
+              <point x="10277.659810418685" y="7298.0" />
+              <point x="10277.659810418685" y="1246.0" />
+              <point x="6597.474712187099" y="1246.0" />
+              <point x="128.64705882352973" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStockWithCommission" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-81.0" />
+              <point x="6287.730114677666" y="7278.0" />
+              <point x="6871.920679983901" y="7278.0" />
+              <point x="-41.08695652173901" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddDACInvestmentStrategy" target="trader.model">
+              <point x="0.0" y="-103.0" />
+              <point x="7384.222310418683" y="7248.0" />
+              <point x="7401.130043069452" y="7248.0" />
+              <point x="7401.130043069452" y="5008.0" />
+              <point x="6432.9161565638115" y="5008.0" />
+              <point x="16.949999999999818" y="14.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.ErrorMsg">
+              <point x="151.66666666666697" y="-334.0" />
+              <point x="7640.400090579711" y="7961.0" />
+              <point x="10908.784810418685" y="7961.0" />
+              <point x="10908.784810418685" y="1216.0" />
+              <point x="6626.062947481216" y="1216.0" />
+              <point x="157.23529411764684" y="598.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.account.StockTraderAccount">
+              <point x="-86.35294117647027" y="-279.0" />
+              <point x="5316.251225490198" y="4091.0" />
+              <point x="3973.1124119147426" y="4091.0" />
+              <point x="0.0" y="169.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllPortfolio" target="trader.controller.Interactivity">
+              <point x="118.125" y="-25.5" />
+              <point x="7167.347310418683" y="7258.0" />
+              <point x="9450.284810418685" y="7258.0" />
+              <point x="-105.75" y="477.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.util.equity">
+              <point x="76.36363636363603" y="-136.5" />
+              <point x="5295.10946969697" y="3347.0" />
+              <point x="5400.7715028238335" y="3347.0" />
+              <point x="5400.7715028238335" y="2158.0" />
+              <point x="5451.829583631915" y="2158.0" />
+              <point x="-9.33333333333303" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.GetPortfolioCostBasis" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-37.0" />
+              <point x="5952.730114677666" y="7268.0" />
+              <point x="6858.225027809988" y="7268.0" />
+              <point x="-54.782608695652016" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveStrategy" target="trader.ErrorMsg">
+              <point x="118.125" y="-37.0" />
+              <point x="9853.909810418685" y="7298.0" />
+              <point x="9942.659810418685" y="7298.0" />
+              <point x="9942.659810418685" y="1256.0" />
+              <point x="6587.945300422392" y="1256.0" />
+              <point x="119.11764705882342" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveStrategy" target="trader.controller.Interactivity">
+              <point x="-39.375" y="-37.0" />
+              <point x="9696.409810418685" y="7168.0" />
+              <point x="9591.284810418685" y="7168.0" />
+              <point x="35.25" y="477.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.TimeStamp">
+              <point x="45.90625" y="-14.5" />
+              <point x="6461.872406563813" y="4799.0" />
+              <point x="6498.887283795313" y="4799.0" />
+              <point x="6498.887283795313" y="1366.0" />
+              <point x="5936.749875585791" y="1366.0" />
+              <point x="97.19999999999982" y="48.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.Interactivity">
+              <point x="91.0" y="-334.0" />
+              <point x="7579.733423913045" y="7911.0" />
+              <point x="9567.784810418685" y="7911.0" />
+              <point x="11.75" y="477.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllPortfolio" target="trader.ErrorMsg">
+              <point x="39.375" y="-25.5" />
+              <point x="7088.597310418683" y="7298.0" />
+              <point x="7099.347310418683" y="7298.0" />
+              <point x="7099.347310418683" y="1336.0" />
+              <point x="6511.710006304746" y="1336.0" />
+              <point x="42.88235294117658" y="598.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.AddWeightedInvestmentStrategy">
+              <point x="-103.13333333333321" y="-334.0" />
+              <point x="7385.600090579712" y="7921.0" />
+              <point x="2710.416666666667" y="7921.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.util.USDPrice">
+              <point x="-98.22222222222172" y="-191.0" />
+              <point x="5792.579583631915" y="2498.0" />
+              <point x="5663.024028076359" y="2498.0" />
+              <point x="5663.024028076359" y="1909.0" />
+              <point x="5394.93513918747" y="1909.0" />
+              <point x="55.55000000000018" y="81.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllStrategy" target="trader.ErrorMsg">
+              <point x="39.375" y="-25.5" />
+              <point x="8428.597310418685" y="7248.0" />
+              <point x="8394.722310418685" y="7248.0" />
+              <point x="8394.722310418685" y="1296.0" />
+              <point x="6549.827653363569" y="1296.0" />
+              <point x="81.0" y="598.0" />
+            </edge>
+            <edge source="trader.view.TraderJFrameGuiView" target="trader.view.FieldName">
+              <point x="0.0" y="-246.5" />
+              <point x="967.0" y="7298.0" />
+              <point x="917.5170144069489" y="7298.0" />
+              <point x="95.66666666666606" y="1005.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.USDPrice">
+              <point x="0.0" y="-169.5" />
+              <point x="3973.1124119147426" y="3297.0" />
+              <point x="4276.1351391874705" y="3297.0" />
+              <point x="4276.1351391874705" y="1909.0" />
+              <point x="5293.93513918747" y="1909.0" />
+              <point x="-45.44999999999982" y="81.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.account.StockTraderAccountWithCommission">
+              <point x="-21.58823529411802" y="-279.0" />
+              <point x="5381.015931372549" y="4061.0" />
+              <point x="4569.20457835056" y="4061.0" />
+              <point x="87.5" y="81.0" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.view.TraderJFrameGuiView">
+              <point x="108.85000000000036" y="-323.5" />
+              <point x="629.7250000000004" y="7971.0" />
+              <point x="895.75" y="7971.0" />
+              <point x="-71.25" y="246.5" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.strategy">
+              <point x="-53.77777777777783" y="14.5" />
+              <point x="6249.510069962505" y="3198.0" />
+              <point x="6222.787847740283" y="3198.0" />
+              <point x="6222.787847740283" y="3173.166666666667" />
+              <point x="-60.5" y="9.66666666666697" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.ViewStrategy">
+              <point x="30.333333333333485" y="-334.0" />
+              <point x="7519.066757246378" y="7861.0" />
+              <point x="8054.222310418684" y="7861.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.portfolio.StockPortfolio">
+              <point x="-64.76470588235316" y="-279.0" />
+              <point x="5337.839460784315" y="4081.0" />
+              <point x="4156.1351391874705" y="4081.0" />
+              <point x="4156.1351391874705" y="3367.0" />
+              <point x="4541.3851391874705" y="3367.0" />
+              <point x="0.0" y="103.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.util.Price">
+              <point x="-25.45454545454504" y="-136.5" />
+              <point x="5193.291287878788" y="3307.0" />
+              <point x="5227.8851391874705" y="3307.0" />
+              <point x="5227.8851391874705" y="1336.0" />
+              <point x="4899.669320030236" y="1336.0" />
+              <point x="37.70833333333303" y="59.0" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.view.subframe">
+              <point x="-46.649999999999636" y="-323.5" />
+              <point x="474.22500000000036" y="7951.0" />
+              <point x="444.0" y="7951.0" />
+              <point x="43.0" y="14.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.ApplyStrategy">
+              <point x="-91.0" y="-334.0" />
+              <point x="7397.733423913045" y="7911.0" />
+              <point x="3045.4166666666674" y="7911.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewAccount" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-25.5" />
+              <point x="8941.097310418685" y="7198.0" />
+              <point x="6995.181549549118" y="7198.0" />
+              <point x="82.17391304347802" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.ViewStrategy" target="trader.model">
+              <point x="0.0" y="-25.5" />
+              <point x="8054.222310418684" y="7248.0" />
+              <point x="8071.130043069452" y="7248.0" />
+              <point x="8071.130043069452" y="4988.0" />
+              <point x="6440.449489897146" y="4988.0" />
+              <point x="24.483333333333576" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.Price">
+              <point x="-63.63636363636397" y="-81.0" />
+              <point x="4418.068214714196" y="3776.0" />
+              <point x="4309.1351391874705" y="3776.0" />
+              <point x="4309.1351391874705" y="1336.0" />
+              <point x="4824.25265336357" y="1336.0" />
+              <point x="-37.70833333333303" y="59.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.USDPrice">
+              <point x="-129.5294117647063" y="-279.0" />
+              <point x="5273.074754901962" y="4111.0" />
+              <point x="3743.38513918747" y="4111.0" />
+              <point x="3743.38513918747" y="1889.0" />
+              <point x="5273.735139187471" y="1889.0" />
+              <point x="-65.64999999999964" y="81.5" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStockWithCommission" target="trader.model">
+              <point x="0.0" y="-81.0" />
+              <point x="6182.730114677666" y="5058.0" />
+              <point x="6414.082823230479" y="5058.0" />
+              <point x="-1.883333333333212" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.BuyStock" target="trader.ErrorMsg">
+              <point x="-105.0" y="-70.0" />
+              <point x="1265.416666666667" y="7298.0" />
+              <point x="1191.416666666667" y="7298.0" />
+              <point x="1191.416666666667" y="1416.0" />
+              <point x="6311.592359245922" y="1416.0" />
+              <point x="-157.23529411764684" y="598.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.util.USDPrice">
+              <point x="25.45454545454504" y="-136.5" />
+              <point x="5244.200378787878" y="3327.0" />
+              <point x="5343.98513918747" y="3327.0" />
+              <point x="5.050000000000182" y="81.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.Price">
+              <point x="-122.39999999999964" y="-103.5" />
+              <point x="4418.985139187471" y="3000.0" />
+              <point x="4363.06013918747" y="3000.0" />
+              <point x="4363.06013918747" y="1346.0" />
+              <point x="4839.335986696903" y="1346.0" />
+              <point x="-22.625" y="59.0" />
+            </edge>
+            <edge source="trader.util.account.Account" target="trader.util.TimeStamp">
+              <point x="0.0" y="-125.0" />
+              <point x="3944.88513918747" y="1839.0" />
+              <point x="4287.1351391874705" y="1839.0" />
+              <point x="4287.1351391874705" y="1376.0" />
+              <point x="5763.949875585791" y="1376.0" />
+              <point x="-75.60000000000036" y="48.0" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.controller.TraderController">
+              <point x="37.55555555555475" y="-25.5" />
+              <point x="1075.8055555555547" y="8699.0" />
+              <point x="7579.733423913045" y="8699.0" />
+              <point x="91.0" y="334.0" />
+            </edge>
+            <edge source="trader.controller.commands.AddDACInvestmentStrategy" target="trader.ErrorMsg">
+              <point x="105.0" y="-103.0" />
+              <point x="7489.222310418683" y="7248.0" />
+              <point x="7551.722310418683" y="7248.0" />
+              <point x="7551.722310418683" y="1326.0" />
+              <point x="6521.239418069452" y="1326.0" />
+              <point x="52.41176470588198" y="598.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.equity">
+              <point x="53.45454545454504" y="-169.5" />
+              <point x="4026.5669573692876" y="3317.0" />
+              <point x="4298.1351391874705" y="3317.0" />
+              <point x="4298.1351391874705" y="2108.0" />
+              <point x="5420.7184725208035" y="2108.0" />
+              <point x="-40.44444444444434" y="14.5" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.view.TraderJFrameGuiView">
+              <point x="0.0" y="-25.5" />
+              <point x="71.25" y="246.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveStrategy" target="trader.ErrorMsg">
+              <point x="118.125" y="-37.0" />
+              <point x="10858.909810418685" y="7298.0" />
+              <point x="10845.207604536332" y="7298.0" />
+              <point x="10845.207604536332" y="1226.0" />
+              <point x="6616.533535716511" y="1226.0" />
+              <point x="147.70588235294144" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllStrategy" target="trader.ErrorMsg">
+              <point x="39.375" y="-25.5" />
+              <point x="8763.597310418685" y="7248.0" />
+              <point x="8729.722310418685" y="7248.0" />
+              <point x="8729.722310418685" y="1286.0" />
+              <point x="6559.357065128275" y="1286.0" />
+              <point x="90.52941176470631" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.GetPortfolioCostBasis" target="trader.ErrorMsg">
+              <point x="-105.0" y="-37.0" />
+              <point x="5742.730114677666" y="7128.0" />
+              <point x="3279.784029108136" y="7128.0" />
+              <point x="3279.784029108136" y="1486.0" />
+              <point x="6378.298241598863" y="1486.0" />
+              <point x="-90.52941176470631" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-105.0" y="-25.5" />
+              <point x="7949.222310418684" y="7228.0" />
+              <point x="6954.094593027379" y="7228.0" />
+              <point x="41.08695652173901" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.Price">
+              <point x="-133.63636363636397" y="-169.5" />
+              <point x="3839.4760482783786" y="3317.0" />
+              <point x="3754.38513918747" y="3317.0" />
+              <point x="3754.38513918747" y="1306.0" />
+              <point x="4779.00265336357" y="1306.0" />
+              <point x="-82.95833333333303" y="59.0" />
+            </edge>
+            <edge source="trader.util.account.AccountWithCommission" target="trader.util.Price">
+              <point x="0.0" y="-70.0" />
+              <point x="4079.63513918747" y="2528.0" />
+              <point x="4132.4684725208035" y="2528.0" />
+              <point x="4132.4684725208035" y="1326.0" />
+              <point x="4809.169320030236" y="1326.0" />
+              <point x="-52.79166666666697" y="59.0" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.TradeTimeStamp">
+              <point x="44.0" y="-14.5" />
+              <point x="6347.287847740283" y="3030.0" />
+              <point x="6384.551805854137" y="3030.0" />
+              <point x="6384.551805854137" y="1839.0" />
+              <point x="6212.91826923077" y="1839.0" />
+              <point x="33.23076923076951" y="59.5" />
+            </edge>
+            <edge source="trader.util.account.AccountWithCommission" target="trader.util.equity">
+              <point x="116.66666666666697" y="-70.0" />
+              <point x="4196.301805854137" y="2528.0" />
+              <point x="4225.2184725208035" y="2528.0" />
+              <point x="4225.2184725208035" y="2098.0" />
+              <point x="5414.496250298581" y="2098.0" />
+              <point x="-46.66666666666697" y="14.5" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.controller.ITraderController">
+              <point x="139.95000000000073" y="-323.5" />
+              <point x="660.8250000000007" y="7981.0" />
+              <point x="1127.8503477402828" y="7981.0" />
+              <point x="1127.8503477402828" y="7298.0" />
+              <point x="1111.916666666667" y="7298.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyAccount" target="trader.util.account.AccountWithCommission">
+              <point x="-60.75" y="-69.5" />
+              <point x="3539.63513918747" y="3367.0" />
+              <point x="3765.38513918747" y="3367.0" />
+              <point x="3765.38513918747" y="3040.0" />
+              <point x="3992.13513918747" y="3040.0" />
+              <point x="-87.5" y="70.0" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluateAccount" target="trader.controller.commands.CommandInterface">
+              <point x="-105.0" y="-37.0" />
+              <point x="7614.222310418683" y="7238.0" />
+              <point x="6940.398940853466" y="7238.0" />
+              <point x="27.391304347826008" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.GetAccountCostBasis" target="trader.ErrorMsg">
+              <point x="-105.0" y="-25.5" />
+              <point x="1935.416666666667" y="7178.0" />
+              <point x="1604.7840291081357" y="7178.0" />
+              <point x="1604.7840291081357" y="1436.0" />
+              <point x="6330.651182775335" y="1436.0" />
+              <point x="-138.17647058823513" y="598.0" />
+            </edge>
+            <edge source="trader.util.equity" target="trader.ErrorMsg">
+              <point x="12.444444444444343" y="-14.5" />
+              <point x="5473.607361409692" y="1949.0" />
+              <point x="5495.870433305117" y="1949.0" />
+              <point x="5495.870433305117" y="1536.0" />
+              <point x="6425.945300422392" y="1536.0" />
+              <point x="-42.88235294117658" y="598.0" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.strategy">
+              <point x="107.94117647058829" y="-279.0" />
+              <point x="5510.545343137255" y="4101.0" />
+              <point x="6327.732292184727" y="4101.0" />
+              <point x="6327.732292184727" y="3377.0" />
+              <point x="6330.1767366291715" y="3377.0" />
+              <point x="26.888888888888687" y="14.5" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.util.equity">
+              <point x="-147.33333333333303" y="-191.0" />
+              <point x="5743.4684725208035" y="2508.0" />
+              <point x="5652.024028076359" y="2508.0" />
+              <point x="5652.024028076359" y="2148.0" />
+              <point x="5489.162916965248" y="2148.0" />
+              <point x="28.0" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.CreatePortfolio" target="trader.model">
+              <point x="0.0" y="-37.0" />
+              <point x="3380.4166666666674" y="5038.0" />
+              <point x="6406.549489897145" y="5038.0" />
+              <point x="-9.41666666666697" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.portfolio.StockPortfolio">
+              <point x="133.63636363636397" y="-169.5" />
+              <point x="4106.7487755511065" y="3357.0" />
+              <point x="4502.527996330327" y="3357.0" />
+              <point x="-38.85714285714312" y="103.5" />
+            </edge>
+            <edge source="trader.util.equity" target="trader.util.Price">
+              <point x="-12.444444444444343" y="-14.5" />
+              <point x="5448.7184725208035" y="1949.0" />
+              <point x="5450.8851391874705" y="1949.0" />
+              <point x="5450.8851391874705" y="1306.0" />
+              <point x="4944.919320030236" y="1306.0" />
+              <point x="82.95833333333303" y="59.0" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.view.ITraderView">
+              <point x="75.11111111111131" y="-25.5" />
+              <point x="1113.3611111111113" y="8719.0" />
+              <point x="11092.109209736118" y="8719.0" />
+              <point x="11092.109209736118" y="7981.0" />
+              <point x="11055.784810418685" y="7981.0" />
+              <point x="58.5" y="36.5" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluateAccount" target="trader.ErrorMsg">
+              <point x="105.0" y="-37.0" />
+              <point x="7824.222310418683" y="7248.0" />
+              <point x="7886.722310418683" y="7248.0" />
+              <point x="7886.722310418683" y="1316.0" />
+              <point x="6530.768829834158" y="1316.0" />
+              <point x="61.94117647058829" y="598.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.GetPortfolioCostBasis">
+              <point x="-66.73333333333312" y="-334.0" />
+              <point x="7422.0000905797115" y="7891.0" />
+              <point x="5847.730114677666" y="7891.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.account.AccountWithCommission">
+              <point x="-95.45454545454595" y="-81.0" />
+              <point x="4386.250032896014" y="3786.0" />
+              <point x="4167.1351391874705" y="3786.0" />
+              <point x="87.5" y="70.0" />
+            </edge>
+            <edge source="trader.util.EquityGenerator" target="trader.util.equity">
+              <point x="-87.5" y="-25.5" />
+              <point x="5788.187500000001" y="2138.0" />
+              <point x="5495.3851391874705" y="2138.0" />
+              <point x="34.222222222222626" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StrategyStockTraderAccount" target="trader.util.equity">
+              <point x="21.58823529411802" y="-279.0" />
+              <point x="5424.192401960785" y="4061.0" />
+              <point x="5493.579583631914" y="4061.0" />
+              <point x="5493.579583631914" y="2178.0" />
+              <point x="5470.496250298581" y="2178.0" />
+              <point x="9.33333333333303" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddDACInvestmentStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-105.0" y="-103.0" />
+              <point x="7279.222310418683" y="7248.0" />
+              <point x="6926.703288679553" y="7248.0" />
+              <point x="13.695652173913004" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllPortfolio" target="trader.model">
+              <point x="39.375" y="-25.5" />
+              <point x="10110.159810418685" y="7298.0" />
+              <point x="10113.942543069452" y="7298.0" />
+              <point x="10113.942543069452" y="4928.0" />
+              <point x="6463.049489897145" y="4928.0" />
+              <point x="47.08333333333303" y="14.5" />
+            </edge>
+            <edge source="trader.model" target="trader.ErrorMsg">
+              <point x="52.96875" y="-14.5" />
+              <point x="6468.934906563813" y="4809.0" />
+              <point x="6505.949783795313" y="4809.0" />
+              <point x="6505.949783795313" y="1356.0" />
+              <point x="6492.651182775335" y="1356.0" />
+              <point x="23.823529411764866" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewAccount" target="trader.ErrorMsg">
+              <point x="39.375" y="-25.5" />
+              <point x="9098.597310418685" y="7248.0" />
+              <point x="9064.722310418685" y="7248.0" />
+              <point x="9064.722310418685" y="1276.0" />
+              <point x="6568.886476892982" y="1276.0" />
+              <point x="100.05882352941171" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.RetrievePortfolio" target="trader.controller.Interactivity">
+              <point x="-39.375" y="-37.0" />
+              <point x="10366.409810418685" y="7128.0" />
+              <point x="9638.284810418685" y="7128.0" />
+              <point x="82.25" y="477.0" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.portfolio.CommissionPortfolio">
+              <point x="95.45454545454504" y="-81.0" />
+              <point x="4577.159123805106" y="3786.0" />
+              <point x="5439.8851391874705" y="3786.0" />
+              <point x="5439.8851391874705" y="3020.0" />
+              <point x="5112.3851391874705" y="3020.0" />
+              <point x="35.0" y="48.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.ViewAccount">
+              <point x="66.73333333333358" y="-334.0" />
+              <point x="7555.466757246379" y="7891.0" />
+              <point x="9059.222310418685" y="7891.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.EvaluateAccount">
+              <point x="18.200000000000273" y="-334.0" />
+              <point x="7506.933423913045" y="7851.0" />
+              <point x="7719.222310418683" y="7851.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.account.RetrievableStrategyAccount">
+              <point x="-24.71875" y="-14.5" />
+              <point x="6391.247406563813" y="4769.0" />
+              <point x="3545.63513918747" y="4769.0" />
+              <point x="-54.75" y="102.5" />
+            </edge>
+            <edge source="trader.model" target="trader.util.TradeTimeStamp">
+              <point x="31.78125" y="-14.5" />
+              <point x="6447.747406563813" y="4779.0" />
+              <point x="6484.762283795313" y="4779.0" />
+              <point x="6484.762283795313" y="1809.0" />
+              <point x="6262.764423076924" y="1809.0" />
+              <point x="83.07692307692287" y="59.5" />
+            </edge>
+            <edge source="trader.controller.commands.SaveAllStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-25.5" />
+              <point x="8606.097310418685" y="7208.0" />
+              <point x="6981.485897375205" y="7208.0" />
+              <point x="68.47826086956502" y="25.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.SaveAllPortfolio">
+              <point x="-6.066666666666606" y="-334.0" />
+              <point x="7482.6667572463775" y="7841.0" />
+              <point x="7049.222310418683" y="7841.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.SavePortfolio" target="trader.controller.Interactivity">
+              <point x="118.125" y="-37.0" />
+              <point x="9512.347310418685" y="7298.0" />
+              <point x="9544.284810418685" y="7298.0" />
+              <point x="-11.75" y="477.0" />
+            </edge>
+            <edge source="trader.controller.GuiController" target="trader.view.FieldName">
+              <point x="77.75" y="-323.5" />
+              <point x="598.625" y="7961.0" />
+              <point x="814.0" y="7961.0" />
+              <point x="814.0" y="7298.0" />
+              <point x="821.8503477402828" y="7298.0" />
+              <point x="0.0" y="1005.0" />
+            </edge>
+            <edge source="trader.util.account.AccountWithCommission" target="trader.util.account.Account">
+              <point x="-116.66666666666697" y="-70.0" />
+              <point x="3962.968472520803" y="2528.0" />
+              <point x="4018.38513918747" y="2528.0" />
+              <point x="73.5" y="125.0" />
+            </edge>
+            <edge source="trader.util.portfolio.Portfolio" target="trader.util.Price">
+              <point x="-70.33333333333303" y="-92.0" />
+              <point x="4474.726805854138" y="2078.0" />
+              <point x="4396.06013918747" y="2078.0" />
+              <point x="4396.06013918747" y="1356.0" />
+              <point x="4854.419320030236" y="1356.0" />
+              <point x="-7.54166666666697" y="59.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.ErrorMsg">
+              <point x="127.27272727272702" y="-136.5" />
+              <point x="5346.01856060606" y="3367.0" />
+              <point x="5422.7715028238335" y="3367.0" />
+              <point x="5422.7715028238335" y="2518.0" />
+              <point x="5527.662916965248" y="2518.0" />
+              <point x="5527.662916965248" y="1546.0" />
+              <point x="6435.474712187099" y="1546.0" />
+              <point x="-33.35294117647027" y="598.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.util.portfolio.RetrievableCommissionPortfolio">
+              <point x="-76.36363636363603" y="-136.5" />
+              <point x="5142.382196969698" y="3337.0" />
+              <point x="4752.1351391874705" y="3337.0" />
+              <point x="-54.75" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveAllStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-25.5" />
+              <point x="8271.097310418685" y="7218.0" />
+              <point x="6967.790245201292" y="7218.0" />
+              <point x="54.782608695652016" y="25.5" />
+            </edge>
+            <edge source="trader.view.TraderJFrameGuiView" target="trader.view.GuiView">
+              <point x="-95.0" y="-246.5" />
+              <point x="872.0" y="7288.0" />
+              <point x="258.0" y="7288.0" />
+              <point x="110.0" y="37.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.account.StockTraderAccount">
+              <point x="-31.78125" y="-14.5" />
+              <point x="6384.184906563813" y="4779.0" />
+              <point x="3480.38513918747" y="4779.0" />
+              <point x="3480.38513918747" y="3806.0" />
+              <point x="3914.3124119147424" y="3806.0" />
+              <point x="-58.80000000000018" y="169.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.USDPrice">
+              <point x="-40.80000000000018" y="-103.5" />
+              <point x="4500.585139187469" y="2970.0" />
+              <point x="4418.06013918747" y="2970.0" />
+              <point x="4418.06013918747" y="1939.0" />
+              <point x="5324.235139187471" y="1939.0" />
+              <point x="-15.149999999999636" y="81.5" />
+            </edge>
+            <edge source="trader.model" target="trader.model">
+              <point x="-54.616666666666674" y="14.5" />
+              <point x="6361.349489897146" y="4878.0" />
+              <point x="6339.466156563813" y="4878.0" />
+              <point x="6339.466156563813" y="4850.75" />
+              <point x="-56.5" y="7.25" />
+            </edge>
+            <edge source="trader.controller.commands.RetrieveStrategy" target="trader.model">
+              <point x="39.375" y="-37.0" />
+              <point x="10780.159810418685" y="7298.0" />
+              <point x="10783.942543069452" y="7298.0" />
+              <point x="10783.942543069452" y="4908.0" />
+              <point x="6470.582823230479" y="4908.0" />
+              <point x="54.61666666666679" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.SavePortfolio" target="trader.ErrorMsg">
+              <point x="39.375" y="-37.0" />
+              <point x="9433.597310418685" y="7248.0" />
+              <point x="9399.722310418685" y="7248.0" />
+              <point x="9399.722310418685" y="1266.0" />
+              <point x="6578.415888657688" y="1266.0" />
+              <point x="109.58823529411802" y="598.0" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.portfolio.CommissionPortfolio">
+              <point x="-55.0" y="-14.5" />
+              <point x="6248.287847740283" y="3010.0" />
+              <point x="5182.3851391874705" y="3010.0" />
+              <point x="105.0" y="48.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.StockGenerator">
+              <point x="17.65625" y="-14.5" />
+              <point x="6433.622406563813" y="4759.0" />
+              <point x="6470.637283795313" y="4759.0" />
+              <point x="6470.637283795313" y="2950.0" />
+              <point x="6074.9684725208035" y="2950.0" />
+              <point x="184.16666666666697" y="191.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.equity">
+              <point x="68.0" y="-103.5" />
+              <point x="4609.3851391874705" y="3000.0" />
+              <point x="4762.6351391874705" y="3000.0" />
+              <point x="4762.6351391874705" y="2138.0" />
+              <point x="5439.3851391874705" y="2138.0" />
+              <point x="-21.777777777777374" y="14.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockCommissionPortfolio" target="trader.util.portfolio.StockPortfolio">
+              <point x="-101.81818181818198" y="-136.5" />
+              <point x="5116.927651515152" y="3347.0" />
+              <point x="4657.956567758898" y="3347.0" />
+              <point x="116.57142857142844" y="103.5" />
+            </edge>
+            <edge source="trader.util.strategy" target="trader.util.equity">
+              <point x="-22.0" y="-14.5" />
+              <point x="6281.287847740283" y="2970.0" />
+              <point x="6316.051805854137" y="2970.0" />
+              <point x="6316.051805854137" y="2128.0" />
+              <point x="5501.607361409692" y="2128.0" />
+              <point x="40.44444444444434" y="14.5" />
+            </edge>
+            <edge source="trader.view.subframe" target="trader.view.GuiView">
+              <point x="-32.25" y="-14.5" />
+              <point x="368.75" y="7298.0" />
+              <point x="203.0" y="7298.0" />
+              <point x="55.0" y="37.0" />
+            </edge>
+            <edge source="trader.util.equity" target="trader.util.USDPrice">
+              <point x="-24.888888888888687" y="-14.5" />
+              <point x="5436.274028076359" y="1919.0" />
+              <point x="5384.835139187469" y="1919.0" />
+              <point x="45.44999999999982" y="81.5" />
+            </edge>
+            <edge source="trader.controller.commands.RetrievePortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="-118.125" y="-37.0" />
+              <point x="10287.659810418685" y="7138.0" />
+              <point x="7049.96415824477" y="7138.0" />
+              <point x="136.95652173913004" y="25.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.equity">
+              <point x="127.27272727272702" y="-81.0" />
+              <point x="4608.977305623288" y="3796.0" />
+              <point x="5450.8851391874705" y="3796.0" />
+              <point x="5450.8851391874705" y="2178.0" />
+              <point x="5464.274028076359" y="2178.0" />
+              <point x="3.111111111111313" y="14.5" />
+            </edge>
+            <edge source="trader.BatmAnRunner" target="trader.model">
+              <point x="-75.11111111111131" y="-25.5" />
+              <point x="963.1388888888887" y="8719.0" />
+              <point x="0.0" y="8719.0" />
+              <point x="0.0" y="4938.0" />
+              <point x="6368.882823230479" y="4938.0" />
+              <point x="-47.08333333333303" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.Account" target="trader.util.equity">
+              <point x="98.0" y="-125.0" />
+              <point x="4042.88513918747" y="2088.0" />
+              <point x="5408.274028076359" y="2088.0" />
+              <point x="-52.88888888888869" y="14.5" />
+            </edge>
+            <edge source="trader.view.subframe" target="trader.view.subframe">
+              <point x="0.0" y="14.5" />
+              <point x="401.0" y="7609.0" />
+              <point x="306.5" y="7609.0" />
+              <point x="306.5" y="7557.25" />
+              <point x="-64.5" y="-7.25" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.AddDACInvestmentStrategy">
+              <point x="6.066666666666606" y="-334.0" />
+              <point x="7494.800090579711" y="7831.0" />
+              <point x="7384.222310418683" y="7831.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="trader.util.account.RetrievableStrategyAccount" target="trader.util.account.StrategyAccount">
+              <point x="0.0" y="-102.5" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccount" target="trader.util.account.Account">
+              <point x="-53.45454545454504" y="-169.5" />
+              <point x="3919.6578664601975" y="3287.0" />
+              <point x="3871.38513918747" y="3287.0" />
+              <point x="-73.5" y="125.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewPortfolio" target="trader.ErrorMsg">
+              <point x="-105.0" y="-37.0" />
+              <point x="1600.416666666667" y="7188.0" />
+              <point x="1286.416666666667" y="7188.0" />
+              <point x="1286.416666666667" y="1426.0" />
+              <point x="6321.121771010628" y="1426.0" />
+              <point x="-147.70588235294144" y="598.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.RetrieveStrategy">
+              <point x="139.53333333333376" y="-334.0" />
+              <point x="7628.266757246378" y="7951.0" />
+              <point x="10740.784810418685" y="7951.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.view.TraderJFrameGuiView" target="trader.controller.ITraderController">
+              <point x="95.0" y="-246.5" />
+              <point x="1062.0" y="7298.0" />
+              <point x="1065.916666666667" y="7298.0" />
+              <point x="-46.0" y="25.5" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.ViewPortfolio">
+              <point x="-139.5333333333333" y="-334.0" />
+              <point x="7349.200090579711" y="7951.0" />
+              <point x="1705.416666666667" y="7951.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.TradeTimeStamp">
+              <point x="-13.600000000000364" y="-103.5" />
+              <point x="4527.78513918747" y="2960.0" />
+              <point x="4429.06013918747" y="2960.0" />
+              <point x="4429.06013918747" y="1969.0" />
+              <point x="6096.610576923078" y="1969.0" />
+              <point x="-83.07692307692287" y="59.5" />
+            </edge>
+            <edge source="trader.util.EquityGenerator" target="trader.util.TimeStamp">
+              <point x="87.5" y="-25.5" />
+              <point x="5963.187500000001" y="1406.0" />
+              <point x="5850.349875585792" y="1406.0" />
+              <point x="10.800000000000182" y="48.0" />
+            </edge>
+            <edge source="trader.controller.commands.GetAccountCostBasis" target="trader.model">
+              <point x="0.0" y="-25.5" />
+              <point x="2040.416666666667" y="4998.0" />
+              <point x="6391.482823230479" y="4998.0" />
+              <point x="-24.483333333333576" y="14.5" />
+            </edge>
+            <edge source="trader.util.portfolio.CommissionPortfolio" target="trader.util.portfolio.Portfolio">
+              <point x="-93.33333333333303" y="-48.0" />
+              <point x="4984.051805854137" y="2528.0" />
+              <point x="4597.81013918747" y="2528.0" />
+              <point x="52.75" y="92.0" />
+            </edge>
+            <edge source="trader.util.USDPrice" target="trader.ErrorMsg">
+              <point x="67.33333333333303" y="-81.5" />
+              <point x="5406.718472520803" y="1526.0" />
+              <point x="6416.415888657688" y="1526.0" />
+              <point x="-52.41176470588198" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewAccount" target="trader.model">
+              <point x="-39.375" y="-25.5" />
+              <point x="9019.847310418685" y="7248.0" />
+              <point x="9053.722310418685" y="7248.0" />
+              <point x="9053.722310418685" y="4958.0" />
+              <point x="6451.749489897145" y="4958.0" />
+              <point x="35.78333333333376" y="14.5" />
+            </edge>
+            <edge source="trader.util.StockGenerator" target="trader.util.TimeStamp">
+              <point x="98.22222222222263" y="-191.0" />
+              <point x="5989.024028076359" y="2508.0" />
+              <point x="6061.187500000001" y="2508.0" />
+              <point x="6061.187500000001" y="1396.0" />
+              <point x="5871.949875585791" y="1396.0" />
+              <point x="32.399999999999636" y="48.0" />
+            </edge>
+            <edge source="trader.model" target="trader.util.USDPrice">
+              <point x="-45.90625" y="-14.5" />
+              <point x="6370.059906563813" y="4799.0" />
+              <point x="3466.26013918747" y="4799.0" />
+              <point x="3466.26013918747" y="1869.0" />
+              <point x="5253.53513918747" y="1869.0" />
+              <point x="-85.85000000000036" y="81.5" />
+            </edge>
+            <edge source="trader.controller.commands.CreatePortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-37.0" />
+              <point x="3485.4166666666674" y="7258.0" />
+              <point x="6844.529375636075" y="7258.0" />
+              <point x="-68.47826086956502" y="25.5" />
+            </edge>
+            <edge source="trader.util.portfolio.StockPortfolio" target="trader.util.StockGenerator">
+              <point x="95.19999999999982" y="-103.5" />
+              <point x="4636.585139187469" y="3030.0" />
+              <point x="5706.63513918747" y="3030.0" />
+              <point x="-184.16666666666697" y="191.0" />
+            </edge>
+            <edge source="trader.controller.TraderController" target="trader.controller.commands.BuyStockWithCommission">
+              <point x="-54.59999999999991" y="-334.0" />
+              <point x="7434.133423913045" y="7881.0" />
+              <point x="6182.730114677666" y="7881.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="trader.controller.commands.ViewStrategy" target="trader.ErrorMsg">
+              <point x="105.0" y="-25.5" />
+              <point x="8159.222310418684" y="7248.0" />
+              <point x="8235.909810418685" y="7248.0" />
+              <point x="8235.909810418685" y="1306.0" />
+              <point x="6540.2982415988645" y="1306.0" />
+              <point x="71.4705882352946" y="598.0" />
+            </edge>
+            <edge source="trader.controller.commands.EvaluateAccount" target="trader.model">
+              <point x="0.0" y="-37.0" />
+              <point x="7719.222310418683" y="7248.0" />
+              <point x="7736.130043069452" y="7248.0" />
+              <point x="7736.130043069452" y="4998.0" />
+              <point x="6436.682823230478" y="4998.0" />
+              <point x="20.716666666666242" y="14.5" />
+            </edge>
+            <edge source="trader.controller.commands.AddStock" target="trader.model">
+              <point x="-105.0" y="-48.0" />
+              <point x="6412.730114677666" y="7188.0" />
+              <point x="6452.6134480109995" y="7188.0" />
+              <point x="6452.6134480109995" y="5048.0" />
+              <point x="6417.849489897146" y="5048.0" />
+              <point x="1.883333333333212" y="14.5" />
+            </edge>
+            <edge source="trader.util.account.StockTraderAccountWithCommission" target="trader.util.USDPrice">
+              <point x="0.0" y="-81.0" />
+              <point x="4481.70457835056" y="3756.0" />
+              <point x="4342.1351391874705" y="3756.0" />
+              <point x="4342.1351391874705" y="1929.0" />
+              <point x="5314.1351391874705" y="1929.0" />
+              <point x="-25.25" y="81.5" />
+            </edge>
+            <edge source="trader.controller.commands.ViewPortfolio" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-37.0" />
+              <point x="1810.416666666667" y="7208.0" />
+              <point x="6776.05111476651" y="7208.0" />
+              <point x="-136.95652173913004" y="25.5" />
+            </edge>
+            <edge source="trader.controller.commands.ApplyStrategy" target="trader.controller.commands.CommandInterface">
+              <point x="105.0" y="-48.0" />
+              <point x="3150.4166666666674" y="7248.0" />
+              <point x="6830.833723462162" y="7248.0" />
+              <point x="-82.17391304347802" y="25.5" />
+            </edge>
+            <edge source="trader.util.TradeTimeStamp" target="trader.ErrorMsg">
+              <point x="72.0" y="-59.5" />
+              <point x="6251.687500000001" y="1566.0" />
+              <point x="6454.533535716511" y="1566.0" />
+              <point x="-14.294117647058556" y="598.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1" x="-4209.0" y="-1319.0" />
+          <SelectedNodes>
+            <node>trader.controller.commands.CommandInterface</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/commands/ViewStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/EvaluateAccountView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/ApplyStrategyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/AskWeightedOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/DACStrategyDifferentWeightView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/DollarAveragingCostStrategyView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/EnterWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/Success.java" />
+    <entry file="file://$PROJECT_DIR$/src/trader/util/StockGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/strategy/WeightedStockStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/strategy/DACStockStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/StrategyStockTraderModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/EquityGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/TimeStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/TradeTimeStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/subframe/GetPortfolioCostBasisView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/USDPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/model/StrategyStockTraderModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052">
+          <caret line="197" column="33" selection-start-line="197" selection-start-column="33" selection-end-line="197" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/portfolio/RetrievableCommissionPortfolio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/GuiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="92" column="38" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/account/StrategyStockTraderAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4978">
+          <caret line="262" column="18" selection-start-line="262" selection-start-column="6" selection-end-line="262" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/TraderJFrameGuiView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="125" column="34" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/FieldName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/account/RetrievableStrategyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/ITraderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/portfolio/StockCommissionPortfolio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2717">
+          <caret line="154" column="47" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/view/GuiView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/ITraderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/TraderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7201">
+          <caret line="410" column="82" selection-start-line="410" selection-start-column="45" selection-end-line="410" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/controller/commands/CreatePortfolio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/Strategies/DAC.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/util/portfolio/StockPortfolio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trader/BatmAnRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BatmAn:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BatmAn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

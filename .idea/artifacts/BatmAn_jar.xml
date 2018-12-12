@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BatmAn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BatmAn_jar</output-path>
+    <root id="archive" name="BatmAn.jar">
+      <element id="module-output" name="BatmAn" />
+    </root>
+  </artifact>
+</component>
